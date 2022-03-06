@@ -3,7 +3,7 @@
 [![Linkedin: shehabadel](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehabadel/)](https://www.linkedin.com/in/shehabadel/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shehabirl?style=social)
 
-P.S: I don't post technical stuff on my twitter and my views and opinions are my own.
+P.S: I don't post technical stuff on my Twitter, and my views and opinions are my own.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabadel&count_private=true&theme=radical)
 
