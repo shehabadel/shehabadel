@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehabadel/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://shehab.hashnode.dev/)
+[![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/randomlymixes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabadel&count_private=true&theme=radical)
 
