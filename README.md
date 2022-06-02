@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabadel&count_private=true&theme=radical)
 
-Founder of [Stack Info](http://www.stackinfo.me)
+## Founder of [Stack Info](http://www.stackinfo.me)
 
 I am a Computer Engineering and Software Systems student in Ain Shams University. I have massive passion for everything related to computers especially fullstack web development, problem-solving and open-source contribution. I strive to build softwares that will leave an impact in people's lives. I am currently seeking Software Engineering Internships opportunities.
 
