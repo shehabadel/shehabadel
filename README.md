@@ -21,7 +21,7 @@ const shehab = {
     backend: ["Node.js","Express.js"],
     frontend: ["React.js","HTML5","CSS3","Bootstrap","Tailwind","jQuery"],
     databases: ["MongoDB","Mongoose"],
-    services: ["Redis"],
+    services: ["Redis", "SocketIO"],
   },
   currentlyLearning: ["Docker🐳", "Kubernetes", "Nginx"]
 };
