@@ -17,11 +17,12 @@ I am also a hardcore fan of FC Bayern Munchen and Daft Punk 🎷
 ```javascript
 const shehab = {
   programmingLanguages: ["JavaScript", "Java", "Python", "C++","SQL"],
-  stacks: {
+  stack: {
     backend: ["Node.js","Express.js"],
-    frontend: ["React.js","HTML5","CSS3","Bootstrap","Tailwind","jQuery"],
+    frontend: ["React.js","Redux","HTML5","CSS3","Bootstrap","Tailwind","jQuery"],
     databases: ["MongoDB","Mongoose"],
-    services: ["Redis", "SocketIO"],
+    services: ["Redis", "SocketIO", "REST APIs","GraphQL"],
+    
   },
   currentlyLearning: ["Docker🐳", "Kubernetes", "Nginx"]
 };
