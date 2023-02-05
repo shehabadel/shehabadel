@@ -15,11 +15,11 @@ I am also a hardcore fan of FC Bayern Munchen and Daft Punk 🎷
 
 ```javascript
 const shehab = {
-  programmingLanguages: ["Typescript","JavaScript", "Java", "Python", "C++","SQL"],
+  programmingLanguages: ["Typescript","JavaScript", "Java", "Golang", Python", "C++","SQL"],
   stack: {
-    backend: ["Node.js","Express.js"],
+    backend: ["Node.js","Express.js", "TypeGraphQL", "Apollo GraphQL"],
     frontend: ["React.js","Redux","HTML5","CSS3","Bootstrap","Tailwind","jQuery"],
-    databases: ["MongoDB","Mongoose"],
+    databases: ["MongoDB","Mongoose", "Prisma", "PostgreSQL],
     services: ["Redis", "SocketIO", "REST APIs","GraphQL"],
     
   },
