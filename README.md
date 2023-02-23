@@ -19,7 +19,7 @@ const shehab = {
   stack: {
     backend: ["Node.js","Express.js", "TypeGraphQL", "Apollo GraphQL"],
     frontend: ["React.js","Redux","HTML5","CSS3","Bootstrap","Tailwind","jQuery"],
-    databases: ["MongoDB","Mongoose", "Prisma", "PostgreSQL],
+    databases: ["MongoDB","Mongoose", "Prisma", "PostgreSQL"],
     services: ["Redis", "SocketIO", "REST APIs","GraphQL"],
     
   },
